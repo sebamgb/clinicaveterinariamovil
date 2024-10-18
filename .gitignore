@@ -41,3 +41,5 @@ pnpm-debug.log*
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+node_modules
